@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\New folder\\TWebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|c:\\new folder\\twebapplication\\twebapp\\data\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|solutionrelative:twebapp\\data\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|c:\\new folder\\twebapplication\\twebapp\\data\\imagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|solutionrelative:twebapp\\data\\imagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|c:\\new folder\\twebapplication\\twebapp\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|solutionrelative:twebapp\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|c:\\new folder\\twebapplication\\twebapp\\data\\imagedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|solutionrelative:twebapp\\data\\imagedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|c:\\new folder\\twebapplication\\twebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|solutionrelative:twebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|c:\\new folder\\twebapplication\\twebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|solutionrelative:twebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|c:\\new folder\\twebapplication\\twebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|solutionrelative:twebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImageController.cs",
+              "DocumentMoniker": "C:\\New folder\\TWebApplication\\TWebApp\\Controllers\\ImageController.cs",
+              "RelativeDocumentMoniker": "TWebApp\\Controllers\\ImageController.cs",
+              "ToolTip": "C:\\New folder\\TWebApplication\\TWebApp\\Controllers\\ImageController.cs",
+              "RelativeToolTip": "TWebApp\\Controllers\\ImageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T07:07:06.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImageDto.cs",
+              "DocumentMoniker": "C:\\New folder\\TWebApplication\\TWebApp\\Data\\ImageDto.cs",
+              "RelativeDocumentMoniker": "TWebApp\\Data\\ImageDto.cs",
+              "ToolTip": "C:\\New folder\\TWebApplication\\TWebApp\\Data\\ImageDto.cs",
+              "RelativeToolTip": "TWebApp\\Data\\ImageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T07:06:57.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\New folder\\TWebApplication\\TWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "TWebApp\\appsettings.json",
+              "ToolTip": "C:\\New folder\\TWebApplication\\TWebApp\\appsettings.json",
+              "RelativeToolTip": "TWebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T11:24:00.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\New folder\\TWebApplication\\TWebApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TWebApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\New folder\\TWebApplication\\TWebApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TWebApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T11:17:49.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\New folder\\TWebApplication\\TWebApp\\Data\\Image.cs",
+              "RelativeDocumentMoniker": "TWebApp\\Data\\Image.cs",
+              "ToolTip": "C:\\New folder\\TWebApplication\\TWebApp\\Data\\Image.cs",
+              "RelativeToolTip": "TWebApp\\Data\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:18:37.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImageDbContext.cs",
+              "DocumentMoniker": "C:\\New folder\\TWebApplication\\TWebApp\\Data\\ImageDbContext.cs",
+              "RelativeDocumentMoniker": "TWebApp\\Data\\ImageDbContext.cs",
+              "ToolTip": "C:\\New folder\\TWebApplication\\TWebApp\\Data\\ImageDbContext.cs",
+              "RelativeToolTip": "TWebApp\\Data\\ImageDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:16:36.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\New folder\\TWebApplication\\TWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "TWebApp\\Program.cs",
+              "ToolTip": "C:\\New folder\\TWebApplication\\TWebApp\\Program.cs",
+              "RelativeToolTip": "TWebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:13:05.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

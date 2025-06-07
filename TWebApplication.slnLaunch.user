@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "TWebApp\\TWebApp.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TWpfApp\\TWpfApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
