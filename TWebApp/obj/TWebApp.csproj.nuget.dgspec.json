@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\New folder\\TWebApplication\\TWebApp\\TWebApp.csproj": {}
+    "C:\\!ml\\csh_test\\TWebApp\\TWebApp.csproj": {}
   },
   "projects": {
-    "C:\\New folder\\TWebApplication\\TWebApp\\TWebApp.csproj": {
+    "C:\\!ml\\csh_test\\TWebApp\\TWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\New folder\\TWebApplication\\TWebApp\\TWebApp.csproj",
+        "projectUniqueName": "C:\\!ml\\csh_test\\TWebApp\\TWebApp.csproj",
         "projectName": "TWebApp",
-        "projectPath": "C:\\New folder\\TWebApplication\\TWebApp\\TWebApp.csproj",
+        "projectPath": "C:\\!ml\\csh_test\\TWebApp\\TWebApp.csproj",
         "packagesPath": "C:\\Users\\myosu\\.nuget\\packages\\",
-        "outputPath": "C:\\New folder\\TWebApplication\\TWebApp\\obj\\",
+        "outputPath": "C:\\!ml\\csh_test\\TWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\_vivivi\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.mallenom.ru:3645/nuget/mallenom/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -42,9 +43,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -88,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

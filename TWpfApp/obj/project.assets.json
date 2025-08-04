@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\New folder\\TWebApplication\\TWpfApp\\TWpfApp.csproj",
+      "projectUniqueName": "C:\\!ml\\csh_test\\TWpfApp\\TWpfApp.csproj",
       "projectName": "TWpfApp",
-      "projectPath": "C:\\New folder\\TWebApplication\\TWpfApp\\TWpfApp.csproj",
+      "projectPath": "C:\\!ml\\csh_test\\TWpfApp\\TWpfApp.csproj",
       "packagesPath": "C:\\Users\\myosu\\.nuget\\packages\\",
-      "outputPath": "C:\\New folder\\TWebApplication\\TWpfApp\\obj\\",
+      "outputPath": "C:\\!ml\\csh_test\\TWpfApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\_vivivi\\NuGetPackages"
@@ -33,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://nuget.mallenom.ru:3645/nuget/mallenom/v3/index.json": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -49,9 +50,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0-windows7.0": {
@@ -75,7 +76,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

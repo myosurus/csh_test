@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TWpfApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fbd54850d5c7b0ea6a41b9ec92b0e9404ebb15e")]
 [assembly: System.Reflection.AssemblyProductAttribute("TWpfApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TWpfApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

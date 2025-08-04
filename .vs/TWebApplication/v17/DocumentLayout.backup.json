@@ -1,34 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\New folder\\TWebApplication\\",
+  "WorkspaceRootPath": "C:\\!ml\\csh_test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|c:\\new folder\\twebapplication\\twebapp\\data\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|c:\\!ml\\csh_test\\twebapp\\data\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|solutionrelative:twebapp\\data\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|c:\\new folder\\twebapplication\\twebapp\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|c:\\!ml\\csh_test\\twebapp\\data\\imagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|solutionrelative:twebapp\\data\\imagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|c:\\!ml\\csh_test\\twebapp\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|solutionrelative:twebapp\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|c:\\new folder\\twebapplication\\twebapp\\data\\imagedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|c:\\!ml\\csh_test\\twebapp\\data\\imagedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|solutionrelative:twebapp\\data\\imagedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|c:\\new folder\\twebapplication\\twebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|c:\\!ml\\csh_test\\twebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|solutionrelative:twebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|c:\\new folder\\twebapplication\\twebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|solutionrelative:twebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|c:\\new folder\\twebapplication\\twebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|c:\\!ml\\csh_test\\twebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{6BBE3EDD-A299-4E7F-A122-5BBF842E8800}|TWebApp\\TWebApp.csproj|solutionrelative:twebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\New folder\\TWebApplication\\TWebApp\\Data\\ImageDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TWebApp\\Data\\ImageDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,15 +34,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ImageController.cs",
-              "DocumentMoniker": "C:\\New folder\\TWebApplication\\TWebApp\\Controllers\\ImageController.cs",
+              "DocumentMoniker": "C:\\!ml\\csh_test\\TWebApp\\Controllers\\ImageController.cs",
               "RelativeDocumentMoniker": "TWebApp\\Controllers\\ImageController.cs",
-              "ToolTip": "C:\\New folder\\TWebApplication\\TWebApp\\Controllers\\ImageController.cs",
+              "ToolTip": "C:\\!ml\\csh_test\\TWebApp\\Controllers\\ImageController.cs",
               "RelativeToolTip": "TWebApp\\Controllers\\ImageController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -54,11 +58,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "ImageDto.cs",
-              "DocumentMoniker": "C:\\New folder\\TWebApplication\\TWebApp\\Data\\ImageDto.cs",
+              "DocumentMoniker": "C:\\!ml\\csh_test\\TWebApp\\Data\\ImageDto.cs",
               "RelativeDocumentMoniker": "TWebApp\\Data\\ImageDto.cs",
-              "ToolTip": "C:\\New folder\\TWebApplication\\TWebApp\\Data\\ImageDto.cs",
+              "ToolTip": "C:\\!ml\\csh_test\\TWebApp\\Data\\ImageDto.cs",
               "RelativeToolTip": "TWebApp\\Data\\ImageDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -66,11 +70,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\New folder\\TWebApplication\\TWebApp\\appsettings.json",
+              "DocumentMoniker": "C:\\!ml\\csh_test\\TWebApp\\appsettings.json",
               "RelativeDocumentMoniker": "TWebApp\\appsettings.json",
-              "ToolTip": "C:\\New folder\\TWebApplication\\TWebApp\\appsettings.json",
+              "ToolTip": "C:\\!ml\\csh_test\\TWebApp\\appsettings.json",
               "RelativeToolTip": "TWebApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -80,9 +84,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\New folder\\TWebApplication\\TWebApp\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\!ml\\csh_test\\TWebApp\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "TWebApp\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\New folder\\TWebApplication\\TWebApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\!ml\\csh_test\\TWebApp\\Properties\\launchSettings.json",
               "RelativeToolTip": "TWebApp\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -92,9 +96,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Image.cs",
-              "DocumentMoniker": "C:\\New folder\\TWebApplication\\TWebApp\\Data\\Image.cs",
+              "DocumentMoniker": "C:\\!ml\\csh_test\\TWebApp\\Data\\Image.cs",
               "RelativeDocumentMoniker": "TWebApp\\Data\\Image.cs",
-              "ToolTip": "C:\\New folder\\TWebApplication\\TWebApp\\Data\\Image.cs",
+              "ToolTip": "C:\\!ml\\csh_test\\TWebApp\\Data\\Image.cs",
               "RelativeToolTip": "TWebApp\\Data\\Image.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,27 +107,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ImageDbContext.cs",
-              "DocumentMoniker": "C:\\New folder\\TWebApplication\\TWebApp\\Data\\ImageDbContext.cs",
+              "DocumentMoniker": "C:\\!ml\\csh_test\\TWebApp\\Data\\ImageDbContext.cs",
               "RelativeDocumentMoniker": "TWebApp\\Data\\ImageDbContext.cs",
-              "ToolTip": "C:\\New folder\\TWebApplication\\TWebApp\\Data\\ImageDbContext.cs",
+              "ToolTip": "C:\\!ml\\csh_test\\TWebApp\\Data\\ImageDbContext.cs",
               "RelativeToolTip": "TWebApp\\Data\\ImageDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T11:16:36.785Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\New folder\\TWebApplication\\TWebApp\\Program.cs",
-              "RelativeDocumentMoniker": "TWebApp\\Program.cs",
-              "ToolTip": "C:\\New folder\\TWebApplication\\TWebApp\\Program.cs",
-              "RelativeToolTip": "TWebApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T11:13:05.554Z"
             }
           ]
         }
